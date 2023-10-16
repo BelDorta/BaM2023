@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#landingPage{
+    border: 2px solid red;
+}
+
+#aboutUS{
+    border: 2px solid blue;
+}
+
+#toBuy{
+    border: 2px solid blueviolet;
+}
+
+#ourModels{
+    border: 2px solid green;
+}
+
+#contactInfo{
+    border: 2px solid greenyellow;
+}
